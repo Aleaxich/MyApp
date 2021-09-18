@@ -57,7 +57,6 @@ static const CGFloat MACustomNavBarHeight = 40;
     MACustomNavBar *navBar = [[MACustomNavBar alloc] init];
     [self.view addSubview:navBar];
     
-    
 }
 
 @end
